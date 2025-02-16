@@ -2,9 +2,11 @@ body {
   background-color: #f9f7fe;
   font-family: "Roboto", serif;
 }
+
 a {
   colour: purple;
 }
+
 .weather-app {
   background-color: white;
   max-width: 600px;
@@ -26,6 +28,7 @@ header {
   padding: 15px 20px;
   font-size: 16px;
 }
+
 .search-form-button {
   background-color: purple;
   padding: 15px 30px;
@@ -35,6 +38,7 @@ header {
   color: white;
   font-size: 16px;
 }
+
 .weather-app-data {
   display: flex;
   justify-content: space-between;
@@ -45,6 +49,7 @@ header {
   font-size: 38px;
   line-height: 48px;
 }
+
 .weather-app-details {
   font-size: 16px;
   line-height: 24px;
@@ -75,6 +80,7 @@ header {
   margin-top: 16px;
   font-size: 28px;
 }
+
 footer {
   border-top: 1px solid #f9f7fe;
   padding: 30px 0 0 0;
